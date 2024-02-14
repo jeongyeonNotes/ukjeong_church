@@ -1,4 +1,4 @@
-# info
+# INFO
 
 Spring boot
 JAVA 17
