@@ -1,10 +1,10 @@
 # INFO
 
-Spring boot
-JAVA 17
-JPA
-Lombok
-Thymeleaf
+Spring boot <br/>
+JAVA 17 <br/>
+JPA <br/>
+Lombok <br/>
+Thymeleaf <br/>
 
 # HISTORY
 
