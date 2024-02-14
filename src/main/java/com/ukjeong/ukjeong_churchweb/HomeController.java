@@ -1,4 +1,4 @@
-package com.ukjeong.ukjeong_churchweb.Home;
+package com.ukjeong.ukjeong_churchweb;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
